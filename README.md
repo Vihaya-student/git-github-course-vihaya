@@ -1,6 +1,6 @@
 # Git & GitHub Mastery Guide 🚀
 
-Welcome to the official companion repository for the **"Git & GitHub Full Course for Beginners – 2025 Edition"** YouTube tutorial series by [Vishnu S](https://youtube.com/@Vihayaa), Founder of Vihaya.
+Welcome to the official companion repository for the **"Git & GitHub Full Course for Beginners – 2025 Edition"** YouTube tutorial series by [Vishnu S](https://youtube.com/@Vihayaa), Founder of Vihaya. Connect with me on [LinkedIn](https://www.linkedin.com/in/vishnumeta/)!
 
 ## 📚 What's Inside?
 
