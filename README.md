@@ -2,6 +2,8 @@
 
 Welcome to the official companion repository for the **"Git & GitHub Full Course for Beginners – 2025 Edition"** YouTube tutorial series by [Vishnu S](https://youtube.com/@Vihayaa), Founder of Vihaya. Connect with me on [LinkedIn](https://www.linkedin.com/in/vishnumeta/)!
 
+This is an open-source project, and we welcome contributions from anyone! Whether you're a beginner or an expert, your input can help improve this resource for everyone.
+
 ## 📚 What's Inside?
 
 This repository is your all-in-one learning hub for mastering Git and GitHub. Whether you're a complete beginner or looking to refresh your skills, you'll find everything you need here—step-by-step guides, real-world examples, hands-on exercises, and more.
