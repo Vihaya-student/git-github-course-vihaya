@@ -92,5 +92,5 @@ Thanks to all our contributors for making this resource better!
 ---
 
 <div align="center">
-  <p>Questions? Join our <a href="https://discord.gg/vihaya">Discord Community</a>!</p>
+  <p>Questions? Join our <a href="https://discord.gg/V7qWTUca">Discord Community</a>!</p>
 </div> 
