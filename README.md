@@ -91,6 +91,131 @@ GitHub is a web-based platform that uses Git for version control. It provides a 
 5. **Follow the Documentation**:
    - Start with the [Getting Started Guide](docs/getting-started.md) to learn the basics.
 
+## 💻 Git Commands for Beginners
+
+Here are the essential Git commands you'll need to get started. Copy and paste these commands in order as you follow along with the tutorial:
+
+```bash
+# Check Git version
+git --version
+
+# Set your name
+git config --global user.name "Your Name"
+
+# Set your email
+git config --global user.email "your@email.com"
+
+# Check your settings
+git config --list
+
+# Clone a repository from GitHub
+git clone <paste link here>
+
+# Check what has changed in your repository
+git status
+
+# Add files to staging area
+git add filename.txt
+git add .  # Add all files
+
+# Commit your changes
+git commit -m "Your commit message"
+
+# Push your changes to GitHub
+git push
+```
+
+# Init Commands – used to create a new git repo
+
+```bash
+# Initialize a new Git repository
+git init
+
+# Add remote origin
+git remote add origin <link>
+
+# Verify remote
+git remote -v
+
+# Check current branch
+git branch
+
+# Rename branch to main
+git branch -M main
+
+# Push to main branch
+git push origin main
+```
+
+# Branch Commands
+
+```bash
+# Check branch
+git branch
+
+# Rename branch to main
+git branch -M main
+
+# Navigate to a branch
+git checkout <branch name>
+
+# Create and switch to a new branch
+git checkout -b <new branch name>
+
+# Delete a branch
+git branch -d <branch name>
+```
+
+# Merging Code
+
+## Way 1: Using Git Commands
+```bash
+# Compare commits, branches, files, and more
+git diff <branch name>
+
+# Merge two branches
+git merge <branch name>
+```
+
+## Way 2: Using GitHub
+- Create a Pull Request (PR)
+
+# Pull Request
+
+- To contribute your changes to a project, create a Pull Request (PR) on GitHub. This allows others to review and merge your changes.
+
+# Pull Command
+
+```bash
+# Pull the latest changes from the remote repository
+git pull
+```
+
+# Undoing Changes
+
+## Case 1: Undo staged changes
+```bash
+# Unstage a specific file
+git reset <file name>
+
+# Unstage all files
+git reset
+```
+
+## Case 2: Undo committed changes (for one commit)
+```bash
+git reset HEAD~1
+```
+
+## Case 3: Undo committed changes (for many commits)
+```bash
+# Reset to a specific commit (soft reset)
+git reset <commit hash>
+
+# Reset to a specific commit and discard all changes (hard reset)
+git reset --hard <commit hash>
+```
+
 ---
 
 ## 📝 Table of Contents
